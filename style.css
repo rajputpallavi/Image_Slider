@@ -79,3 +79,10 @@ body{
     opacity: 0;
     animation: animate 1s ease-in-out 1 forwards;
 }
+
+.content .des{
+  margin-top: 10px;
+  margin-bottom: 20px;
+  opacity: 0;
+  animation: animate 1s ease-in-out 0.3s 1 forwards;
+}
