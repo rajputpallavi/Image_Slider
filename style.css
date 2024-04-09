@@ -128,3 +128,8 @@ body{
   border: 1px solid #000;
   transition: 0.3s;
 }
+
+.button button:hover{
+  background: #ababab;
+  color: #fff;
+}
