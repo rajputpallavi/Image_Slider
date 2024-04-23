@@ -19,3 +19,6 @@ git clone - https://github.com/rajputpallavi/Image_Slider.git
 Open the index.html file in your web browser.
 
 You should see the image slider in action!
+
+Customization
+You can customize the image slider by modifying the index.html, style.css, and script.js files according to your needs.
