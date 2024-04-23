@@ -15,3 +15,4 @@ You can view a live demo of the image slider - http://127.0.0.1:5501/index.html
 
 1. Clone the repository to your local machine:
 git clone - https://github.com/rajputpallavi/Image_Slider.git
+
