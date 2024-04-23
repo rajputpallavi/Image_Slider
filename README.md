@@ -20,5 +20,8 @@ Open the index.html file in your web browser.
 
 You should see the image slider in action!
 
-Customization
+## Customization
 You can customize the image slider by modifying the index.html, style.css, and script.js files according to your needs.
+
+## Contributing
+Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
