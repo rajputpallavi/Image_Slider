@@ -25,3 +25,4 @@ You can customize the image slider by modifying the index.html, style.css, and s
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
+Before submitting a pull request, please make sure your code follows the existing code style and conventions.
