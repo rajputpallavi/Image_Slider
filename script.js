@@ -15,7 +15,7 @@ prev.addEventListener('click', function(){
 document.querySelector('.dark-mode').addEventListener('click', function() {
     document.body.classList.add('dark-mode-active');
   });
-document.querySelector('.light-mode')addEventListener('click', function() {
+document.querySelector('.light-mode').addEventListener('click', function() {
     document.body.classList.remove('dark-mode-active');
 });
 
