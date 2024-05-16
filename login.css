@@ -66,3 +66,7 @@ body{
     accent-color: #fff;  
     margin-right: 3px;
 }
+.remember-forgot a{
+    color: #fff;
+    text-decoration: none;
+}
