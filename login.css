@@ -40,12 +40,12 @@ body{
     background: transparent;
     border: none;
     outline: none;
-    border: 2px solid rgba(157, 41, 41, 0.2);
+    border: 2px solid rgba(255, 255, 255, .2);
     border-radius: 40px;
     font-size: 16px;
     color: #fff;
     padding: 20px 45px 20px 20px;
 }
 .input-box input::placeholder{
-    color: #1b0505;
+    color: #fff;
 }
