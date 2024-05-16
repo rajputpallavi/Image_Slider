@@ -11,3 +11,6 @@ function login() {
         alert('Password must be at least 8 characters long.');
         return;
     }
+    console.log('Email and password entered successfully.');
+    window.location.href = 'another-page.html';
+}
